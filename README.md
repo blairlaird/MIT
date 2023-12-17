@@ -1,2 +1,2 @@
 # MIT
-A place to log my coding homwork
+The purpose of this repository is to log my coding work that I have been working on at MIT
