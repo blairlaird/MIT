@@ -1,0 +1,35 @@
+Enter file contents Real-Time Bus Tracker 🚌
+
+This project is part of the MIT xPro course. It visualizes real-time data of the Boston MBTA buses on a map.
+
+
+
+Overview
+
+In this project, we use an API to fetch real-time data of the Boston MBTA buses and display their live locations on the map. The goal of this project is to understand how to work with APIs and handle real-time data.
+
+
+Features
+
+Live tracking of Boston MBTA buses.
+Visual representation of bus locations on a map.
+Refreshes data every few seconds for real-time tracking.
+
+Installation & Usage
+
+Clone this repository: git clone https://github.com/username/repo.git
+Open the index.html file in your browser.
+
+Extend this Project
+
+Feel free to extend this project by sourcing data from another city and displaying it on the map.
+
+
+Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+License
+
+MIThere
