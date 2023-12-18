@@ -1,0 +1,19 @@
+Eye Exercise
+
+## Description
+The Eye Exercise project is an interactive web application where on-screen eyes follow the movement of the user's cursor. It showcases the use of JavaScript to create responsive and attention-grabbing web elements, enhancing user engagement through interactive design.
+
+## How to Run
+To run this project:
+1. Download the repository files to your computer.
+2. Open the `index.html` file in any standard web browser.
+3. Move your cursor around the screen to see the eyes follow its movement.
+
+## Roadmap of Future Improvements
+Planned improvements include:
+- Adding blink animations to the eyes for a more realistic effect.
+- Implementing different eye expressions based on cursor speed and direction.
+- Responsive design for mobile devices.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
